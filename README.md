@@ -1,5 +1,5 @@
-# M.E.T.S.-Language
-M.E.T.S. is a programming language with very little syntax similarity to Java.
+# J.E.R.M. Language
+J.E.R.M. stands for Java English Ruby Mixed Language, is a programming language with very little syntax similarity to Java.
 
 To do a simple output task do this.
 
@@ -10,7 +10,7 @@ The W in `WSystem` stands for Wired System, which means that another computer is
 
 The `::` in `WSystem::` is a Directive Declarater for `Body`, which selects which bridge of communication it will use.
 
-The `.` in `Body.put` is a command or code separator, a whitespace may work but its more computerized using `.`.
+The `.` in `Body.put` is a command or code separator and accesser, a whitepspace may work.
 
 The `put()` function in `Body.put(Hello)` is a function or command, which when executed, it will print out "Hello".
 

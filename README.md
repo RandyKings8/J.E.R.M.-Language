@@ -15,3 +15,6 @@ The `.` in `Body.put` is a code accesser.
 The `put()` function in `Body.put(Hello)` is a function or command, which when executed, it will print out "Hello".
 
 The `end` in `put(Hello) end` is the command or code line finalizer, which ends a line of code or statements.
+____________________________________________________________________________________________________________________________
+
+***For Complier Download and execution, click on jerm.py file and download it as raw file. This complier only runs on python shell, in later versions, the complier will be available for windows and mac.***
